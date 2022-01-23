@@ -1,11 +1,9 @@
-I've learned:
--CV format
--Git status
--Git add
--Git commit 
--Git push
--Git pull
--Connecting Git with Github
--Github repository
-
-Arfin sir helped me a lot by providing some resources. But I was stuck with some problems like updating git, logging in with correct ID and password still showing wrong info that time I searched on google and got answers from stack-overflow and Github.
+Today I've learned this topics :
+1.CV format
+2.Git status
+3.Git add
+4.Git commit 
+5.Git push
+6.Git pull
+7.Connecting Git with Github
+8.Github repository
